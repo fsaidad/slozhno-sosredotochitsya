@@ -3,11 +3,13 @@
   --heading-сolor: #353430;
   --text-color: #353430;
   --logo-color: #ffc2e6;
-  --bg-type: url(/images/cover-image-light.png);
+  --bg-type: url(../images/cover-image-light.png);
   --bg-text: #ff8dcb;
   --hover-color: rgb(50, 49, 45, 0.5);
   --shadow-color: #ff8dcb;
   --uniq-shadow: #ff0070;
+  --font-family: "IBM Plex Mono", sans-serif;
+  --hidden-color: transparent;
 }
 @media (prefers-color-scheme: light) {
   :root {
@@ -15,11 +17,13 @@
     --heading-сolor: #353430;
     --text-color: #353430;
     --logo-color: #ffc2e6;
-    --bg-type: url(/images/cover-image-light.png);
+    --bg-type: url(../images/cover-image-light.png);
     --bg-text: #ff8dcb;
     --hover-color: rgb(50, 49, 45, 0.5);
     --shadow-color: #ff8dcb;
     --uniq-shadow: #ff0070;
+    --font-family: "IBM Plex Mono", sans-serif;
+    --hidden-color: transparent;
   }
 }
 .page.theme_light {

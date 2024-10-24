@@ -3,9 +3,11 @@
   --heading-сolor: #000028;
   --text-color: #f1b2ce;
   --logo-color: #db00ff;
-  --bg-type: url(/images/cover-image-dark.png);
+  --bg-type: url(../images/cover-image-dark.png);
   --bg-text: #ff0070;
   --shadow-color: #ff0070;
   --hover-color: rgb(255, 0, 112, 0.5);
   --uniq-shadow: #ff0070;
+  --font-family: "IBM Plex Mono", sans-serif;
+  --hidden-color: #ff0070;
 }
